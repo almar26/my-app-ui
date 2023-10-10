@@ -104,7 +104,7 @@
     <v-app-bar fixed elevation="0" color="primary" dark dense app>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-spacer></v-spacer>
-      <!-- <v-toolbar-title>{{ title }}</v-toolbar-title> -->
+      <v-toolbar-title>Nuxt.js Deployed on render.com</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn small text to="/"
         ><v-icon>mdi-logout</v-icon></v-btn
