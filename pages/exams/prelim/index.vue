@@ -44,7 +44,7 @@
               >mdi-note-text</v-icon
             >
           </v-list-item>
-          <v-card-actions class="mt-2"><v-btn elevation="0" block color="orange" dark>View Exams</v-btn></v-card-actions>
+          <v-card-actions class="mt-2"><v-btn elevation="0" block color="orange" dark to="/exams/prelim/bsit-4a">View Exams</v-btn></v-card-actions>
         </v-card>
       </v-col>
     </v-row>
